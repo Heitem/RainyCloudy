@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "11E589BFAD56C971E55C1C7FC7895500"
+               BlueprintIdentifier = "A6DBDD8237457AE269F44733DA3FF732"
                BuildableName = "Pods_RainyShinyCloudy.framework"
                BlueprintName = "Pods-RainyShinyCloudy"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -26,6 +26,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
@@ -36,6 +37,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -45,7 +47,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "11E589BFAD56C971E55C1C7FC7895500"
+            BlueprintIdentifier = "A6DBDD8237457AE269F44733DA3FF732"
             BuildableName = "Pods_RainyShinyCloudy.framework"
             BlueprintName = "Pods-RainyShinyCloudy"
             ReferencedContainer = "container:Pods.xcodeproj">
