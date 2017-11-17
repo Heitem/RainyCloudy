@@ -167,7 +167,6 @@
 			children = (
 				764352381F68114C00D39AFD /* CurrentWeather.swift */,
 				7674073F1F6ABD1200DCFAE4 /* ForecastDay.swift */,
-				767407431F6BF05100DCFAE4 /* Location.swift */,
 				76F8AA0B1FBEE5BB00C9637D /* ForecastDays.swift */,
 			);
 			path = Entity;
@@ -229,6 +228,7 @@
 			children = (
 				76F8AA071FBDCAA000C9637D /* CurrentWeatherService.swift */,
 				76F8AA091FBDCE5B00C9637D /* ForecastService.swift */,
+				767407431F6BF05100DCFAE4 /* Location.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";

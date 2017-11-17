@@ -39,7 +39,7 @@ extension ForecastAPI: TargetType {
     
     switch self {
     case .forecast:
-      let params = ["q": "sale", "appid": Configuration.init().appID, "units": "metric", "cnt": "10"]
+        let params = ["lat": Location.sharedInstance.latitude, "lon": Location.sharedInstance.longitude, "appid": Configuration.init().appID, "units": "metric", "cnt": "10"] as [String : Any]
       return params
     }
   }

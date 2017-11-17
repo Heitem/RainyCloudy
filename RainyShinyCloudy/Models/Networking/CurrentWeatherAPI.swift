@@ -36,7 +36,7 @@ extension CurrentWeatherAPI: TargetType {
     
     switch self {
     case .currentWeather:
-      let params = ["q": "sale", "appid": Configuration.init().appID, "units": "metric"]
+        let params = ["lat": Location.sharedInstance.latitude, "lon": Location.sharedInstance.longitude, "appid": Configuration.init().appID, "units": "metric"] as [String : Any]
       return params
     }
   }
