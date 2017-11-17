@@ -20,7 +20,7 @@ class WeatherCell: UITableViewCell {
         weatherIcon.image = UIImage(named: "\(forecast.weatherType) Mini")
         dayLabel.text = "\(Date(timeIntervalSince1970: forecast.date).dayOfTheWeek())"
         weatherType.text = forecast.weatherType
-        highTemp.text = "\(forecast.highTemp)"
-        lowTemp.text = "\(forecast.lowTemp)"
+        highTemp.text = "\(forecast.highTemp) °C"
+        lowTemp.text = "\(forecast.lowTemp) °C"
     }
 }

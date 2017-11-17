@@ -111,13 +111,13 @@
 		76E401C61F65DC1800E7FCA0 /* RainyShinyCloudy */ = {
 			isa = PBXGroup;
 			children = (
-				76F8A9EC1FBDA9EE00C9637D /* Application Files */,
 				764352361F680EE400D39AFD /* Constants.swift */,
 				76E401D31F65DC1800E7FCA0 /* Info.plist */,
-				76F8A9EE1FBDAA7E00C9637D /* Infrastructure */,
 				76E401CB1F65DC1800E7FCA0 /* Main.storyboard */,
-				76F8A9EB1FBDA9E300C9637D /* Models */,
 				76E401C91F65DC1800E7FCA0 /* WeatherViewController.swift */,
+				76F8A9EC1FBDA9EE00C9637D /* Application Files */,
+				76F8A9EE1FBDAA7E00C9637D /* Infrastructure */,
+				76F8A9EB1FBDA9E300C9637D /* Models */,
 			);
 			path = RainyShinyCloudy;
 			sourceTree = "<group>";
